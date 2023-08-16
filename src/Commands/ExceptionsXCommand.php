@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Rajentrivedi\ExceptionsX\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class ExceptionsXCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'exceptions-x';
 
     public $description = 'My command';
 
